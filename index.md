@@ -4,7 +4,7 @@ layout: page
 
 <p>&nbsp;</p>
 
-<h2>Experience</h2>
+<h3>Experience</h3>
 
 **System Administrator** · _Xray Magnatek Aps_ · March 2019/November 2020
     Operating systems and software installation
@@ -37,7 +37,7 @@ layout: page
 
 <p>&nbsp;</p>
 
-<h2>Education</h2>
+<h3>Education</h3>
 
 **Master of Science, Bioinformatics** · June 2020 · **Aarhus University**
     **Courses:**
@@ -56,14 +56,16 @@ layout: page
 
 <p>&nbsp;</p>
 
-<h2>Courses</h2>
+<h3>Courses</h3>
 
 <p>&nbsp;</p>
 
-<h2>Languages</h2>
+<h3>Languages</h3>
 
 **Spanish:** Native
+
 **English:** IELST C1
+
 **Danish:** Basic
 
 <p>&nbsp;</p>
