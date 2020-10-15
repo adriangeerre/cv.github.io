@@ -4,7 +4,7 @@ layout: page
 
 <p>&nbsp;</p>
 
-# Experience
+<h2>Experience</h2>
 
 **System Administrator** · _Xray Magnatek Aps_ · March 2019/November 2020
     Operating systems and software installation
@@ -37,9 +37,9 @@ layout: page
 
 <p>&nbsp;</p>
 
-# Education
+<h2>Education</h2>
 
-***Master of Science, Bioinformatics*** · June 2020 · **Aarhus University**
+**Master of Science, Bioinformatics** · June 2020 · **Aarhus University**
     **Courses:**
 	    Biology: Tree of Life, Population Genetics and Next generation sequencing (NGS).
 	    Statiscs: Data science and Statistical and Machine learning in bioinformatics.
@@ -50,17 +50,17 @@ layout: page
     **MSc thesis:**
 	    Taxonomical analysis of environmental DNA of coastal water samples from Denmark.
 
-***Bachelor of Science, Biology*** · July 2015 · **Autonomous University of Madrid**
+**Bachelor of Science, Biology** · July 2015 · **Autonomous University of Madrid**
     **BSc thesis:**
 	    Data Analysis of L. glama and V. paco diet from the Andes population using ANOVA.
 
 <p>&nbsp;</p>
 
-# Courses
+<h2>Courses</h2>
 
 <p>&nbsp;</p>
 
-# Languages
+<h2>Languages</h2>
 
 **Spanish:** Native
 **English:** IELST C1
@@ -68,6 +68,6 @@ layout: page
 
 <p>&nbsp;</p>
 
-# Skills
+<h2>Skills</h2>
 
 **Driving License:** B
