@@ -12,24 +12,24 @@ p {
 <h4>Experience</h4>
 
 **System Administrator** · _Xray Magnatek Aps_ · March 2019/November 2020<br>
-<p>Operating systems and software installation<br>
-    System administration on Linux (Debian/Ubuntu)
-    System administration on Windows (Pro)
-    ERP system manage and development (Odoo v10)
-    Server securization and networking
-    Database management
-    Backup and NAS management
-    Users account management (Office 365/Outlook)
-    Management of the rental of software tools and licenses
+<p>Operating systems and software installation</p><br>
+<p>System administration on Linux (Debian/Ubuntu)</p><br>
+<p>System administration on Windows (Pro)</p><br>
+<p>ERP system manage and development (Odoo v10)</p><br>
+<p>Server securization and networking</p><br>
+<p>Database management</p><br>
+<p>Backup and NAS management</p><br>
+<p>Users account management (Office 365/Outlook)</p><br>
+<p>Management of the rental of software tools and licenses</p><br>
 
 **System Administrator** · _Medlab Media Group_ · November 2017/August 2018<br>
-    Operating systems and software installation
-    System administration on Linux (Debian/Ubuntu)
-    Server securization and networking
-    Database management
-    User and events management
-    Management of the rental of servers and software tools
-    Software product testing
+    Operating systems and software installation<br>
+    System administration on Linux (Debian/Ubuntu)<br>
+    Server securization and networking<br>
+    Database management<br>
+    User and events management<br>
+    Management of the rental of servers and software tools<br>
+    Software product testing<br>
 
 **System Administrator** · _Autonomous University of Madrid_ · December 2015/November 2017<br>
     Operating system and software installation<br>
