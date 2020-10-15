@@ -1,26 +1,21 @@
 ---
 layout: page
 ---
-<style>
-p {
-  text-indent: 25px;
-}
-</style>
 
 <p>&nbsp;</p>
 
 <h4>Experience</h4>
 
-**System Administrator** · _Xray Magnatek Aps_ · March 2019/November 2020
-<p>Operating systems and software installation</p>
-<p>System administration on Linux (Debian/Ubuntu)</p>
-<p>System administration on Windows (Pro)</p>
-<p>ERP system manage and development (Odoo v10)</p>
-<p>Server securization and networking</p>
-<p>Database management</p>
-<p>Backup and NAS management</p>
-<p>Users account management (Office 365/Outlook)</p>
-<p>Management of the rental of software tools and licenses</p>
+**System Administrator** · _Xray Magnatek Aps_ · March 2019/November 2020<br>
+Operating systems and software installation<br>
+System administration on Linux (Debian/Ubuntu)<br>
+System administration on Windows (Pro)<br>
+ERP system manage and development (Odoo v10)<br>
+Server securization and networking<br>
+Database management<br>
+Backup and NAS management<br>
+Users account management (Office 365/Outlook)<br>
+Management of the rental of software tools and licenses<br>
 
 **System Administrator** · _Medlab Media Group_ · November 2017/August 2018<br>
     Operating systems and software installation<br>
@@ -45,19 +40,19 @@ p {
 <h4>Education</h4>
 
 **Master of Science, Bioinformatics** · June 2020 · **Aarhus University**<br>
-    **Courses:**
-	    Biology: Tree of Life, Population Genetics and Next generation sequencing (NGS).
-	    Statiscs: Data science and Statistical and Machine learning in bioinformatics.
-	    Computer science: Computational thinking, Algorithms in Bioinformatics and Advanced R programming.
-    **Projects:**
-	    A comparison of algorithms for determining gene structure, Viterbi and Posterior decoding.
-	    Taxonomical analysis of environmental DNA of coastal water samples from Denmark.
-    **MSc thesis:**
-	    Taxonomical analysis of environmental DNA of coastal water samples from Denmark.
+    **Courses:**<br>
+	    Biology: Tree of Life, Population Genetics and Next generation sequencing (NGS).<br>
+	    Statiscs: Data science and Statistical and Machine learning in bioinformatics.<br>
+	    Computer science: Computational thinking, Algorithms in Bioinformatics and Advanced R programming.<br>
+    **Projects:**<br>
+	    A comparison of algorithms for determining gene structure, Viterbi and Posterior decoding.<br>
+	    Taxonomical analysis of environmental DNA of coastal water samples from Denmark.<br>
+    **MSc thesis:**<br>
+	    Taxonomical analysis of environmental DNA of coastal water samples from Denmark.<br>
 
 **Bachelor of Science, Biology** · July 2015 · **Autonomous University of Madrid**<br>
-    **BSc thesis:**
-	    Data Analysis of L. glama and V. paco diet from the Andes population using ANOVA.
+    **BSc thesis:**<br>
+	    Data Analysis of L. glama and V. paco diet from the Andes population using ANOVA.<br>
 
 <p>&nbsp;</p>
 
@@ -67,9 +62,9 @@ p {
 
 <h4>Languages</h4>
 
-**Spanish:** Native<br>
-**English:** IELST C1<br>
-**Danish:** Basic<br>
+**Spanish:** Native <br>
+**English:** IELST C1 <br>
+**Danish:** Basic <br>
 
 <p>&nbsp;</p>
 
