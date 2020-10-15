@@ -11,16 +11,16 @@ p {
 
 <h4>Experience</h4>
 
-**System Administrator** · _Xray Magnatek Aps_ · March 2019/November 2020<br>
-<p>Operating systems and software installation</p><br>
-<p>System administration on Linux (Debian/Ubuntu)</p><br>
-<p>System administration on Windows (Pro)</p><br>
-<p>ERP system manage and development (Odoo v10)</p><br>
-<p>Server securization and networking</p><br>
-<p>Database management</p><br>
-<p>Backup and NAS management</p><br>
-<p>Users account management (Office 365/Outlook)</p><br>
-<p>Management of the rental of software tools and licenses</p><br>
+**System Administrator** · _Xray Magnatek Aps_ · March 2019/November 2020
+<p>Operating systems and software installation</p>
+<p>System administration on Linux (Debian/Ubuntu)</p>
+<p>System administration on Windows (Pro)</p>
+<p>ERP system manage and development (Odoo v10)</p>
+<p>Server securization and networking</p>
+<p>Database management</p>
+<p>Backup and NAS management</p>
+<p>Users account management (Office 365/Outlook)</p>
+<p>Management of the rental of software tools and licenses</p>
 
 **System Administrator** · _Medlab Media Group_ · November 2017/August 2018<br>
     Operating systems and software installation<br>
