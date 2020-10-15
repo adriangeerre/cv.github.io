@@ -65,9 +65,9 @@ div.b {
     <div class="a">
         <b>Courses:</b>
     </div>
-    <div class="a">
-	    <p><b>Biology:</b> Tree of Life, Population Genetics and Next generation sequencing (NGS).</p>
-	    <p><b>Statiscs:</b> Data science and Statistical and Machine learning in bioinformatics.</p>
+    <div class="b">
+	   <p><b>Biology:</b> Tree of Life, Population Genetics and Next generation sequencing (NGS).</p>
+	   <p><b>Statiscs:</b> Data science and Statistical and Machine learning in bioinformatics.</p>
 	   <p><b>Computer science:</b> Computational thinking, Algorithms in Bioinformatics and Advanced R programming.</p>
     </div>    
     <div class="a">
