@@ -1,15 +1,11 @@
 ---
 layout: page
 ---
-<html>
-<head>
 <style>
 p {
-  text-indent: 50px;
+  text-indent: 25px;
 }
 </style>
-</head>
-<body>
 
 <p>&nbsp;</p>
 
@@ -80,6 +76,3 @@ p {
 <h4>Skills</h4>
 
 **Driving License:** B
-
-</body>
-</html>
