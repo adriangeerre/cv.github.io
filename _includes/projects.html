@@ -1,4 +1,4 @@
-{% assign sorted_repos = (site.github.public_repositories | sort: 'stargazers_count') %}
+{% assign sorted_repos = (site.github.public_repositories) %}
 <div class="col s12 switch">
   <label>
     Show forked projects
