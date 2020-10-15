@@ -16,7 +16,7 @@ div.b {
 
 <p>&nbsp;</p>
 
-<h4>Experience</h4>
+<h5>Experience</h5>
 
 <b>System Administrator</b> · <i>Xray Magnatek Aps</i> · March 2019/November 2020<br>
 <div class="a">
@@ -33,7 +33,7 @@ div.b {
 
 <p>&nbsp;</p>
 
-<h6>System Administrator</h6> · <i>Medlab Media Group</i> · November 2017/August 2018<br>
+<b>System Administrator</b> · <i>Medlab Media Group</i> · November 2017/August 2018<br>
 <div class="a">
     <p>Operating systems and software installation</p>
     <p>System administration on Linux (Debian/Ubuntu)</p>
@@ -59,11 +59,11 @@ div.b {
 
 <p>&nbsp;</p>
 
-<h4>Education</h4>
+<h5>Education</h5>
 
 <b>Master of Science, Bioinformatics</b> · June 2020 · <b>Aarhus University</b><br>
     <div class="a">
-    <b>Courses:</b>
+        <b>Courses:</b>
     </div>
     <div class="a">
 	    <p><b>Biology:</b> Tree of Life, Population Genetics and Next generation sequencing (NGS).</p>
@@ -71,14 +71,14 @@ div.b {
 	   <p><b>Computer science:</b> Computational thinking, Algorithms in Bioinformatics and Advanced R programming.</p>
     </div>    
     <div class="a">
-    <b>Projects:</b>
+        <b>Projects:</b>
     </div>
     <div class="b">
 	   <p>A comparison of algorithms for determining gene structure, Viterbi and Posterior decoding.</p>
 	   <p>Taxonomical analysis of environmental DNA of coastal water samples from Denmark.</p>
     </div>
     <div class="a">
-    <b>MSc thesis:</b>
+        <b>MSc thesis:</b>
     </div>
     <div class="b">
         <p>Taxonomical analysis of environmental DNA of coastal water samples from Denmark.</p>
@@ -86,9 +86,9 @@ div.b {
 
 <p>&nbsp;</p>
 
-<b>Bachelor of Science, Biology</b> · July 2015 · **Autonomous University of Madrid**<br>
+<b>Bachelor of Science, Biology</b> · July 2015 · <b>Autonomous University of Madrid</b><br>
     <div class="a">
-    <b>BSc thesis:</b>
+        <b>BSc thesis:</b>
     </div>
     <div class="b">
 	    <p>Data Analysis of L. glama and V. paco diet from the Andes population using ANOVA.</p>
@@ -96,20 +96,20 @@ div.b {
 
 <p>&nbsp;</p>
 
-<h4>Courses</h4>
+<h5>Courses</h5>
 
 <p>&nbsp;</p>
 
-<h4>Languages</h4>
+<h5>Languages</h5>
 
 <div class="a">
-<p><b>Spanish: Native</b></p>
-<p><b>English: IELST C1</b></p> 
-<p><b>Danish: Basic</b></p>
+    <p><b>Spanish:</b> Native</p>
+    <p><b>English:</b> IELST C1</p> 
+    <p><b>Danish:</b> Basic</p>
 </div>
 
 <p>&nbsp;</p>
 
-<h4>Skills</h4>
+<h5>Skills</h5>
 
 <b>Driving License:</b> B
