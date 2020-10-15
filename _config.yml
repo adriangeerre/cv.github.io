@@ -26,10 +26,10 @@ paginate: 5
 github_profile: "https://github.com/adriangeerre"
 user: "Adrián Gómez"
 #user_email: "john@doe.com"
-#contact_url: "https://goo.gl/tVljbV"
-#google_tracking_id: "UA-96359860-1"
-#google_site_verification: "UA-96359860-1"
-#disqus_shortname: "Adrián"
+contact_url: "https://goo.gl/tVljbV"
+google_tracking_id: "UA-96359860-1"
+google_site_verification: "UA-96359860-1"
+disqus_shortname: "Adrián"
 
 # Build settings
 markdown: kramdown
