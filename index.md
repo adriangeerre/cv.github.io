@@ -3,12 +3,10 @@ layout: page
 title: "CV"
 ---
 
-## Personal Data
+**Experience**
 
-## Experience
+**Education**
 
-## Education
+**Languages**
 
-## Languages
-
-## Skills
+**Skills**
