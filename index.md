@@ -62,37 +62,37 @@ div.b {
 <h5>Education</h5>
 
 <b>Master of Science, Bioinformatics</b> · June 2020 · <b>Aarhus University</b><br>
-    <div class="a">
-        <b>Courses:</b>
-    </div>
-    <div class="b">
-	   <p><b>Biology:</b> Tree of Life, Population Genetics and Next generation sequencing (NGS).</p>
-	   <p><b>Statiscs:</b> Data science and Statistical and Machine learning in bioinformatics.</p>
-	   <p><b>Computer science:</b> Computational thinking, Algorithms in Bioinformatics and Advanced R programming.</p>
-    </div>    
-    <div class="a">
-        <b>Projects:</b>
-    </div>
-    <div class="b">
-	   <p>A comparison of algorithms for determining gene structure, Viterbi and Posterior decoding.</p>
-	   <p>Taxonomical analysis of environmental DNA of coastal water samples from Denmark.</p>
-    </div>
-    <div class="a">
-        <b>MSc thesis:</b>
-    </div>
-    <div class="b">
-        <p>Taxonomical analysis of environmental DNA of coastal water samples from Denmark.</p>
-    </div>
+<div class="a">
+    <b>Courses:</b>
+</div>
+<div class="b">
+	<p><b>Biology:</b> Tree of Life, Population Genetics and Next generation sequencing (NGS).</p>
+	<p><b>Statiscs:</b> Data science and Statistical and Machine learning in bioinformatics.</p>
+	<p><b>Computer science:</b> Computational thinking, Algorithms in Bioinformatics and Advanced R programming.</p>
+</div>    
+<div class="a">
+    <b>Projects:</b>
+</div>
+<div class="b">
+   <p>A comparison of algorithms for determining gene structure, Viterbi and Posterior decoding.</p>
+   <p>Taxonomical analysis of environmental DNA of coastal water samples from Denmark.</p>
+</div>
+<div class="a">
+    <b>MSc thesis:</b>
+</div>
+<div class="b">
+    <p>Taxonomical analysis of environmental DNA of coastal water samples from Denmark.</p>
+</div>
 
 <p>&nbsp;</p>
 
 <b>Bachelor of Science, Biology</b> · July 2015 · <b>Autonomous University of Madrid</b><br>
-    <div class="a">
-        <b>BSc thesis:</b>
-    </div>
-    <div class="b">
-	    <p>Data Analysis of L. glama and V. paco diet from the Andes population using ANOVA.</p>
-    </div>
+<div class="a">
+    <b>BSc thesis:</b>
+</div>
+<div class="b">
+    <p>Data Analysis of L. glama and V. paco diet from the Andes population using ANOVA.</p>
+</div>
 
 <p>&nbsp;</p>
 
