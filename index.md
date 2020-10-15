@@ -4,7 +4,7 @@ layout: page
 
 <p>&nbsp;</p>
 
-### Experience
+# Experience
 
 **System Administrator** · _Xray Magnatek Aps_ · March 2019/November 2020
     Operating systems and software installation
@@ -37,7 +37,7 @@ layout: page
 
 <p>&nbsp;</p>
 
-### Education
+# Education
 
 ***Master of Science, Bioinformatics*** · June 2020 · **Aarhus University**
     **Courses:**
@@ -56,11 +56,11 @@ layout: page
 
 <p>&nbsp;</p>
 
-### Courses
+# Courses
 
 <p>&nbsp;</p>
 
-### Languages
+# Languages
 
 **Spanish:** Native
 **English:** IELST C1
@@ -68,6 +68,6 @@ layout: page
 
 <p>&nbsp;</p>
 
-### Skills
+# Skills
 
 **Driving License:** B
