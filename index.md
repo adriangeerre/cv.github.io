@@ -2,20 +2,34 @@
 layout: page
 ---
 
+<style>
+p {
+    margin: 0;
+}
+div.a {
+    text-indent: 25px;
+}
+div.b {
+    text-indent: 50px;
+}
+</style>
+
 <p>&nbsp;</p>
 
 <h4>Experience</h4>
 
-**System Administrator** · _Xray Magnatek Aps_ · March 2019/November 2020<br>
-Operating systems and software installation<br>
-System administration on Linux (Debian/Ubuntu)<br>
-System administration on Windows (Pro)<br>
-ERP system manage and development (Odoo v10)<br>
-Server securization and networking<br>
-Database management<br>
-Backup and NAS management<br>
-Users account management (Office 365/Outlook)<br>
-Management of the rental of software tools and licenses<br>
+<strong>System Administrator</strong> · _Xray Magnatek Aps_ · March 2019/November 2020<br>
+<div class="a">
+<p>Operating systems and software installation</p>
+<p>System administration on Linux (Debian/Ubuntu)</p>
+<p>System administration on Windows (Pro)</p>
+<p>ERP system manage and development (Odoo v10)</p>
+<p>Server securization and networking</p>
+<p>Database management</p>
+<p>Backup and NAS management</p>
+<p>Users account management (Office 365/Outlook)</p>
+<p>Management of the rental of software tools and licenses</p>
+</div>
 
 **System Administrator** · _Medlab Media Group_ · November 2017/August 2018<br>
     Operating systems and software installation<br>
