@@ -18,55 +18,81 @@ div.b {
 
 <h4>Experience</h4>
 
-<strong>System Administrator</strong> · _Xray Magnatek Aps_ · March 2019/November 2020<br>
+<b>System Administrator</b> · <i>Xray Magnatek Aps</i> · March 2019/November 2020<br>
 <div class="a">
-<p>Operating systems and software installation</p>
-<p>System administration on Linux (Debian/Ubuntu)</p>
-<p>System administration on Windows (Pro)</p>
-<p>ERP system manage and development (Odoo v10)</p>
-<p>Server securization and networking</p>
-<p>Database management</p>
-<p>Backup and NAS management</p>
-<p>Users account management (Office 365/Outlook)</p>
-<p>Management of the rental of software tools and licenses</p>
+    <p>Operating systems and software installation</p>
+    <p>System administration on Linux (Debian/Ubuntu)</p>
+    <p>System administration on Windows (Pro)</p>
+    <p>ERP system manage and development (Odoo v10)</p>
+    <p>Server securization and networking</p>
+    <p>Database management</p>
+    <p>Backup and NAS management</p>
+    <p>Users account management (Office 365/Outlook)</p>
+    <p>Management of the rental of software tools and licenses</p>
 </div>
 
-**System Administrator** · _Medlab Media Group_ · November 2017/August 2018<br>
-    Operating systems and software installation<br>
-    System administration on Linux (Debian/Ubuntu)<br>
-    Server securization and networking<br>
-    Database management<br>
-    User and events management<br>
-    Management of the rental of servers and software tools<br>
-    Software product testing<br>
+<p>&nbsp;</p>
 
-**System Administrator** · _Autonomous University of Madrid_ · December 2015/November 2017<br>
-    Operating system and software installation<br>
-    System administration on Linux (RHEL/CentOS) for scientific computation<br>
-    Server securization and networking<br>
-    Database management<br>
-    User and events management<br>
-    Hardware maintenance<br>
-    CPD monitoring (detectors, temperature, moisture, etc)<br>
+<h6>System Administrator</h6> · <i>Medlab Media Group</i> · November 2017/August 2018<br>
+<div class="a">
+    <p>Operating systems and software installation</p>
+    <p>System administration on Linux (Debian/Ubuntu)</p>
+    <p>Server securization and networking</p>
+    <p>Database management</p>
+    <p>User and events management</p>
+    <p>Management of the rental of servers and software tools</p>
+    <p>Software product testing</p>
+</div>
+
+<p>&nbsp;</p>
+
+<b>System Administrator</b> · <i>Autonomous University of Madrid</i> · December 2015/November 2017<br>
+<div class="a">
+    <p>Operating system and software installation</p>
+    <p>System administration on Linux (RHEL/CentOS) for scientific computation</p>
+    <p>Server securization and networking</p>
+    <p>Database management</p>
+    <p>User and events management</p>
+    <p>Hardware maintenance</p>
+    <p>CPD monitoring (detectors, temperature, moisture, etc)</p>
+</div>
 
 <p>&nbsp;</p>
 
 <h4>Education</h4>
 
-**Master of Science, Bioinformatics** · June 2020 · **Aarhus University**<br>
-    **Courses:**<br>
-	    Biology: Tree of Life, Population Genetics and Next generation sequencing (NGS).<br>
-	    Statiscs: Data science and Statistical and Machine learning in bioinformatics.<br>
-	    Computer science: Computational thinking, Algorithms in Bioinformatics and Advanced R programming.<br>
-    **Projects:**<br>
-	    A comparison of algorithms for determining gene structure, Viterbi and Posterior decoding.<br>
-	    Taxonomical analysis of environmental DNA of coastal water samples from Denmark.<br>
-    **MSc thesis:**<br>
-	    Taxonomical analysis of environmental DNA of coastal water samples from Denmark.<br>
+<b>Master of Science, Bioinformatics</b> · June 2020 · <b>Aarhus University</b><br>
+    <div class="a">
+    <b>Courses:</b>
+    </div>
+    <div class="a">
+	    <p><b>Biology:</b> Tree of Life, Population Genetics and Next generation sequencing (NGS).</p>
+	    <p><b>Statiscs:</b> Data science and Statistical and Machine learning in bioinformatics.</p>
+	   <p><b>Computer science:</b> Computational thinking, Algorithms in Bioinformatics and Advanced R programming.</p>
+    </div>    
+    <div class="a">
+    <b>Projects:</b>
+    </div>
+    <div class="b">
+	   <p>A comparison of algorithms for determining gene structure, Viterbi and Posterior decoding.</p>
+	   <p>Taxonomical analysis of environmental DNA of coastal water samples from Denmark.</p>
+    </div>
+    <div class="a">
+    <b>MSc thesis:</b>
+    </div>
+    <div class="b">
+        <p>Taxonomical analysis of environmental DNA of coastal water samples from Denmark.</p>
+    </div>
 
-**Bachelor of Science, Biology** · July 2015 · **Autonomous University of Madrid**<br>
-    **BSc thesis:**<br>
-	    Data Analysis of L. glama and V. paco diet from the Andes population using ANOVA.<br>
+<p>&nbsp;</p>
+
+<b>Bachelor of Science, Biology</b> · July 2015 · **Autonomous University of Madrid**<br>
+    <div class="a">
+    <b>BSc thesis:</b>
+    </div>
+    <div class="b">
+	    <p>Data Analysis of L. glama and V. paco diet from the Andes population using ANOVA.</p>
+    </div>
 
 <p>&nbsp;</p>
 
@@ -76,12 +102,14 @@ div.b {
 
 <h4>Languages</h4>
 
-**Spanish:** Native <br>
-**English:** IELST C1 <br>
-**Danish:** Basic <br>
+<div class="a">
+<p><b>Spanish: Native</b></p>
+<p><b>English: IELST C1</b></p> 
+<p><b>Danish: Basic</b></p>
+</div>
 
 <p>&nbsp;</p>
 
 <h4>Skills</h4>
 
-**Driving License:** B
+<b>Driving License:</b> B
