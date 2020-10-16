@@ -121,9 +121,9 @@ div.b {
 <p>&nbsp;</p>
 
 <div class="a">
-    <p style="color:#4183c4; display:inline; font-size:120%"><b>Spanish:</b></p> Native
-    <p style="color:#4183c4; display:inline; font-size:120%"><b>English:</b></p> IELTS C1
-    <p style="color:#4183c4; display:inline; font-size:120%"><b>Danish:</b></p> Basic
+    <p style="color:#4183c4; display:inline; font-size:120%"><b>Spanish:</b></p> Native<br>
+    <p style="color:#4183c4; display:inline; font-size:120%"><b>English:</b></p> IELTS C1<br>
+    <p style="color:#4183c4; display:inline; font-size:120%"><b>Danish:</b></p> Basic<br>
 </div>
 
 <p>&nbsp;</p>
