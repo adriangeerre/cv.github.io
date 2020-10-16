@@ -32,7 +32,7 @@ div.c {
     <p style="color:#666666; display:inline"><b>Email:</b></p> info@magnatek.dk
 </div>
 <div class="a">
-    <p style="color:#666666; display:inline"><b>Website:</b></p> <a href="https://magnatek.dk/">magnatek.dk</a><br>
+    <p style="color:#666666; display:inline"><b>Website:</b></p> <a href="https://magnatek.dk/" style="color: black">magnatek.dk</a><br>
 </div>
 <div class="a">
     <b>Tasks:</b>
@@ -61,7 +61,7 @@ div.c {
     <p style="color:#666666; display:inline"><b>Email:</b></p> info@medlabmg.com
 </div>
 <div class="a">
-    <p style="color:#666666; display:inline"><b>Website:</b></p> <a href="https://mmg-ai.com/es/">mmg-ai.com</a><br>
+    <p style="color:#666666; display:inline"><b>Website:</b></p> <a href="https://mmg-ai.com/es/ style="color: black"">mmg-ai.com</a><br>
 </div>
 <div class="a">
     <b>Tasks:</b>
@@ -88,7 +88,7 @@ div.c {
     <p style="color:#666666; display:inline"><b>Email:</b></p> administrador.ccc@uam.es
 </div>
 <div class="a">
-    <p style="color:#666666; display:inline"><b>Website:</b></p> <a href="https://www.ccc.uam.es/">www.ccc.uam.es</a><br>
+    <p style="color:#666666; display:inline"><b>Website:</b></p> <a href="https://www.ccc.uam.es/" style="color: black">www.ccc.uam.es</a><br>
 </div>
 <div class="a">
     <b>Tasks:</b>
