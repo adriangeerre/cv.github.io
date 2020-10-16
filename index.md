@@ -26,6 +26,15 @@ div.c {
     <p style="color:#4183c4; display:inline; font-size:120%"><b>System Administrator</b></p> · March 2019 - November 2020 · <p style="color:#666666; display:inline; font-size:120%"><b>Xray Magnatek Aps</b></p>
 </div>
 <div class="a">
+    <p style="color:#666666; display:inline"><b>Address:<b></p> Bjødstrupvej 6B, 8270, Højbjerg, Aarhus, Denmark.
+</div>
+<div class="a">
+    <p style="color:#666666; display:inline"><b>Email:</b></p> info@magnatek.dk
+</div>
+<div class="a">
+    <b>Tasks:</b>
+</div>
+<div class="b">
     <p>Operating systems and software installation</p>
     <p>System administration on Linux (Debian/Ubuntu)</p>
     <p>System administration on Windows (Pro)</p>
@@ -43,6 +52,15 @@ div.c {
     <p style="color:#4183c4; display:inline; font-size:120%"><b>System Administrator</b></p> · November 2017 - August 2018 · <p style="color:#666666; display:inline; font-size:120%"><b>Medlab Media Group</b></p>
 </div>
 <div class="a">
+    <p style="color:#666666; display:inline"><b>Address:<b></p> 
+</div>
+<div class="a">
+    <p style="color:#666666; display:inline"><b>Email:</b></p> 
+</div>
+<div class="a">
+    <b>Tasks:</b>
+</div>
+<div class="b">
     <p>Operating systems and software installation</p>
     <p>System administration on Linux (Debian/Ubuntu)</p>
     <p>Server securitization and networking</p>
@@ -58,6 +76,15 @@ div.c {
     <p style="color:#4183c4; display:inline; font-size:120%"><b>System Administrator</b></p> · December 2015 - November 2017 · <p style="color:#666666; display:inline; font-size:120%"><b>Autonomous University of Madrid</b></p> 
 </div>
 <div class="a">
+    <p style="color:#666666; display:inline"><b>Address:<b></p> Autonomous University of Madrid. Faculty of Science, module C-08, 1st floor. Entrance throug Stree Adam Smith.
+</div>
+<div class="a">
+    <p style="color:#666666; display:inline"><b>Email:</b></p> administrador.ccc@uam.es
+</div>
+<div class="a">
+    <b>Tasks:</b>
+</div>
+<div class="b">
     <p>Operating system and software installation</p>
     <p>System administration on Linux (RHEL/CentOS) for scientific computation</p>
     <p>Server securitization and networking</p>
