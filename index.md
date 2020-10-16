@@ -23,7 +23,7 @@ div.c {
 
 <p>&nbsp;</p>
 <div class="c">
-    <p style="color:#4183c4; display:inline; font-size:120%"><b>System Administrator</b></p> · March 2019/November 2020 · <p style="color:#666666; display:inline; font-size:120%"><i><b>Xray Magnatek Aps</b></i></p>
+    <p style="color:#4183c4; display:inline; font-size:120%"><b>System Administrator</b></p> · March 2019 - November 2020 · <p style="color:#666666; display:inline; font-size:120%"><b>Xray Magnatek Aps</b></p>
 </div>
 <div class="a">
     <p>Operating systems and software installation</p>
@@ -40,7 +40,7 @@ div.c {
 <p>&nbsp;</p>
 
 <div class="c">
-    <p style="color:#4183c4; display:inline; font-size:120%"><b>System Administrator</b></p> · November 2017/August 2018 · <p style="color:#666666; display:inline; font-size:120%"><b><i>Medlab Media Group</i></i></p>
+    <p style="color:#4183c4; display:inline; font-size:120%"><b>System Administrator</b></p> · November 2017 - August 2018 · <p style="color:#666666; display:inline; font-size:120%"><b>Medlab Media Group</b></p>
 </div>
 <div class="a">
     <p>Operating systems and software installation</p>
@@ -55,7 +55,7 @@ div.c {
 <p>&nbsp;</p>
 
 <div class="c">
-    <p style="color:#4183c4; display:inline; font-size:120%"><b>System Administrator</b></p> · December 2015/November 2017 · <p style="color:#666666; display:inline; font-size:120%"><i><b>Autonomous University of Madrid</b></i></p> 
+    <p style="color:#4183c4; display:inline; font-size:120%"><b>System Administrator</b></p> · December 2015 - November 2017 · <p style="color:#666666; display:inline; font-size:120%"><b>Autonomous University of Madrid</b></p> 
 </div>
 <div class="a">
     <p>Operating system and software installation</p>
