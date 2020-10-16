@@ -16,7 +16,9 @@ div.b {
 
 <p>&nbsp;</p>
 
-<h5>Experience</h5>
+<p style="color:#1e2c57; font-size:160%"><b>Experience</b></p>
+
+<p>&nbsp;</p>
 
 <p style="color:#1e2c57; display:inline; font-size:120%"><b>System Administrator</b></p> · <i>Xray Magnatek Aps</i> · March 2019/November 2020<br>
 <div class="a">
@@ -59,7 +61,9 @@ div.b {
 
 <p>&nbsp;</p>
 
-<h5>Education</h5>
+<p style="color:#1e2c57; font-size:160%"><b>Education</b></p>
+
+<p>&nbsp;</p>
 
 <b>Master of Science, Bioinformatics</b> · June 2020 · <b>Aarhus University</b><br>
 <div class="a">
@@ -96,7 +100,10 @@ div.b {
 
 <p>&nbsp;</p>
 
-<h5>Courses</h5>
+<p style="color:#1e2c57; font-size:160%"><b>Courses</b></p>
+
+<p>&nbsp;</p>
+
 <div class="a">
     <p><b>Course in Shell script programming</b> · Autonomous University of Madrid · 40 hours</p>
     <p><b>Course in Linux security</b> · Autonomous University of Madrid · 40 hours</p>
@@ -109,7 +116,9 @@ div.b {
 
 <p>&nbsp;</p>
 
-<h5>Languages</h5>
+<p style="color:#1e2c57; font-size:160%"><b>Languages</b></p>
+
+<p>&nbsp;</p>
 
 <div class="a">
     <p><b>Spanish:</b> Native</p>
@@ -119,7 +128,9 @@ div.b {
 
 <p>&nbsp;</p>
 
-<h5>Skills</h5>
+<p style="color:#1e2c57; font-size:160%"><b>Skills</b></p>
+
+<p>&nbsp;</p>
 
 <div class="a">
     <b>Programming Languages:</b>
@@ -166,7 +177,9 @@ div.b {
     <p>Bioinformatics</p>
 </div>
 
-<h5>License</h5>
+<p style="color:#1e2c57; font-size:160%"><b>Licenses</b></p>
+
+<p>&nbsp;</p>
 
 <div class="a">
     <b>Driving License:</b> B
