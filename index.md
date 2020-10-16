@@ -83,13 +83,13 @@ div.c {
     <b>Courses:</b>
 </div>
 <div class="b">
-	<p style="color:#2d3427; display:inline"><b>Biology:</b> Tree of Life, Population Genetics and Next-generation sequencing (NGS).</p>
+	<p style="color:#666666; display:inline"><b>Biology:</b> Tree of Life, Population Genetics and Next-generation sequencing (NGS).</p>
 </div>
 <div class="b">
-	<p style="color:#2d3427; display:inline"><b>Statistics:</b> Data science and Statistical and Machine learning in bioinformatics.</p>
+	<p style="color:#666666; display:inline"><b>Statistics:</b> Data science and Statistical and Machine learning in bioinformatics.</p>
 </div>
 <div class="b">
-	<p style="color:#2d3427; display:inline"><b>Computer science:</b> Computational thinking, Algorithms in Bioinformatics and Advanced R programming.</p>
+	<p style="color:#666666; display:inline"><b>Computer science:</b> Computational thinking, Algorithms in Bioinformatics and Advanced R programming.</p>
 </div>    
 <div class="a">
     <b>Projects:</b>
@@ -108,7 +108,7 @@ div.c {
 <p>&nbsp;</p>
 
 <div class="c">
-    <p style="color:#4183c4; display:inline; font-size:120%"><b>Bachelor of Science, Biology</b></p> · July 2015 · <p style="color:#12f18e; display:inline; font-size:120%"><b>Autonomous University of Madrid</b></p>
+    <p style="color:#4183c4; display:inline; font-size:120%"><b>Bachelor of Science, Biology</b></p> · July 2015 · <p style="color:#666666; display:inline; font-size:120%"><b>Autonomous University of Madrid</b></p>
 </div>
 <div class="a">
     <b>BSc thesis:</b>
@@ -133,7 +133,7 @@ div.c {
     <p style="color:#4183c4; display:inline; font-size:120%"><b>Course in Linux security</b></p> · Autonomous University of Madrid · 40 hours
 </div>
 <div class="a">
-    <p style="color:#4183c4; display:inline; font-size:120%"><b>Course in Advanced Administration of Linux Systems</b></p> · Autonomous University of Madrid · 40 hours
+    <p style="color:#4183c4; display:inline; font-size:120%"><b>Course in Advanced Linux Administration</b></p> · Autonomous University of Madrid · 40 hours
 </div>
 <div class="a">
     <p style="color:#4183c4; display:inline; font-size:120%"><b>Introduction to parallel programming with OpenMP and MPI</b></p> · Autonomous University of Madrid · 20 hours
