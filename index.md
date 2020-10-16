@@ -97,6 +97,15 @@ div.b {
 <p>&nbsp;</p>
 
 <h5>Courses</h5>
+<div class="a">
+    <p><b>Course in Shell script programing</b> · Autonomous University of Madrid · 40 hours</p>
+    <p><b>Course in Linux security</b> · Autonomous University of Madrid · 40 hours</p>
+    <p><b>Course in Advanced Administration of Linux Systems</b> · Autonomous University of Madrid · 40 hours</p>
+    <p><b>Introduction to parallel programing with OpenMP and MPI</b>Autonomous University of Madrid · 20 hours</p>
+    <p><b>MongoDB basics</b> · MongoDB University</p>
+    <p><b>Elements of AI</b> · University of Helsinki · 60 horas</p>
+    <p><b>NGS Data Analysis</b> · Aarhus University · 125 hours</p>
+</div>
 
 <p>&nbsp;</p>
 
@@ -112,4 +121,53 @@ div.b {
 
 <h5>Skills</h5>
 
-<b>Driving License:</b> B
+<div class="a">
+    <b>Programming Languages:</b>
+</div>
+<div class="b">
+    <p>Python</p>
+    <p>R</p>
+    <p>Shell Script</p>
+    <p>MySQL</p>
+    <p>XML</p>
+    <p>HTML</p>
+</div>
+<div class="a">
+    <b>Software knowledge:</b>
+</div>
+<div class="b">
+    <p>BLAST</p>
+    <p>Entrez/Eutils</p>
+    <p>Slurm/gwf</p>
+    <p>MySQL/Postgresql/MongoDB</p>
+    <p>Github/Gitlab</p>
+    <p>Jira/Confluence/Bitbucket</p>
+    <p>Pacemaker & Corosync</p>
+    <p>VirtualBox/Proxmox</p>
+    <p>Nagios/Cacti</p>
+    <p>Suricata/Fail2band</p>
+</div>
+<div class="a">
+    <b>Organization:</b>
+</div>
+<div class="b">
+    <p>Scrum</p>
+    <p>Sprints</p>
+    <p>Kanban</p>
+</div>
+<div class="a">
+    <b>Interests:</b>
+</div>
+<div class="b">
+    <p>Evolution</p>
+    <p>Biodiversity</p>
+    <p>Data Science</p>
+    <p>Population Genetics</p>
+    <p>Bionformatics</p>
+</div>
+
+<h5>License</h5>
+
+<div class="a">
+    <b>Driving License:</b> B
+</div>
