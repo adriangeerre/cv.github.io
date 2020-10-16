@@ -77,15 +77,19 @@ div.c {
 <p>&nbsp;</p>
 
 <div class="c">
-    <p style="color:#4183c4; display:inline; font-size:120%"><b>Master of Science, Bioinformatics</b></p> · June 2020 · <b>Aarhus University</b>
+    <p style="color:#4183c4; display:inline; font-size:120%"><b>Master of Science, Bioinformatics</b></p> · June 2020 · <p style="color:#666666; display:inline; font-size:120%"><b>Aarhus University</b></p>
 </div>
 <div class="a">
     <b>Courses:</b>
 </div>
 <div class="b">
-	<p><b>Biology:</b> Tree of Life, Population Genetics and Next-generation sequencing (NGS).</p>
-	<p><b>Statistics:</b> Data science and Statistical and Machine learning in bioinformatics.</p>
-	<p><b>Computer science:</b> Computational thinking, Algorithms in Bioinformatics and Advanced R programming.</p>
+	<p style="color:#2d3427; display:inline"><b>Biology:</b> Tree of Life, Population Genetics and Next-generation sequencing (NGS).</p>
+</div>
+<div class="b">
+	<p style="color:#2d3427; display:inline"><b>Statistics:</b> Data science and Statistical and Machine learning in bioinformatics.</p>
+</div>
+<div class="b">
+	<p style="color:#2d3427; display:inline"><b>Computer science:</b> Computational thinking, Algorithms in Bioinformatics and Advanced R programming.</p>
 </div>    
 <div class="a">
     <b>Projects:</b>
@@ -104,7 +108,7 @@ div.c {
 <p>&nbsp;</p>
 
 <div class="c">
-    <p style="color:#4183c4; display:inline; font-size:120%"><b>Bachelor of Science, Biology</b></p> · July 2015 · <b>Autonomous University of Madrid</b>
+    <p style="color:#4183c4; display:inline; font-size:120%"><b>Bachelor of Science, Biology</b></p> · July 2015 · <p style="color:#12f18e; display:inline; font-size:120%"><b>Autonomous University of Madrid</b></p>
 </div>
 <div class="a">
     <b>BSc thesis:</b>
