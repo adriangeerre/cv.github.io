@@ -106,7 +106,7 @@ div.b {
 
 <div class="a">
     <p style="color:#4183c4; display:inline; font-size:120%"><b>Course in Shell script programming</b></p> · Autonomous University of Madrid · 40 hours
-    <p><b>Course in Linux security</b> · Autonomous University of Madrid · 40 hours</p>
+    <p style="color:#4183c4; display:inline; font-size:120%"><b>Course in Linux security</b></p> · Autonomous University of Madrid · 40 hours
     <p><b>Course in Advanced Administration of Linux Systems</b> · Autonomous University of Madrid · 40 hours</p>
     <p><b>Introduction to parallel programming with OpenMP and MPI</b> · Autonomous University of Madrid · 20 hours</p>
     <p><b>MongoDB basics</b> · MongoDB University · 20 hours</p>
@@ -122,8 +122,8 @@ div.b {
 
 <div class="a">
     <p style="color:#4183c4; display:inline; font-size:120%"><b>Spanish:</b></p> Native<br>
-    <p style="color:#4183c4; display:inline; font-size:120%"><b>English:</b></p> IELTS C1<br>
-    <p style="color:#4183c4; display:inline; font-size:120%"><b>Danish:</b></p> Basic<br>
+    <p style="color:#4183c4; display:inline; font-size:120%"><b>English:</b></p> IELTS C1
+    <p style="color:#4183c4; display:inline; font-size:120%"><b>Danish:</b></p> Basic
 </div>
 
 <p>&nbsp;</p>
