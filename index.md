@@ -23,7 +23,7 @@ div.c {
 
 <p>&nbsp;</p>
 <div class="c">
-    <p style="color:#4183c4; display:inline; font-size:120%"><b>System Administrator</b></p> <p>· <i>Xray Magnatek Aps</i> · March 2019/November 2020</p>
+    <p style="color:#4183c4; display:inline; font-size:120%"><b>System Administrator</b></p> · <i>Xray Magnatek Aps</i> · March 2019/November 2020
 </div>
 <div class="a">
     <p>Operating systems and software installation</p>
@@ -40,7 +40,7 @@ div.c {
 <p>&nbsp;</p>
 
 <div class="c">
-    <p style="color:#4183c4; display:inline; font-size:120%"><b>System Administrator</b></p> <p>· <i>Medlab Media Group</i> · November 2017/August 2018</p>
+    <p style="color:#4183c4; display:inline; font-size:120%"><b>System Administrator</b></p> · <i>Medlab Media Group</i> · November 2017/August 2018
 </div>
 <div class="a">
     <p>Operating systems and software installation</p>
@@ -55,7 +55,7 @@ div.c {
 <p>&nbsp;</p>
 
 <div class="c">
-    <p style="color:#4183c4; display:inline; font-size:120%"><b>System Administrator</b></p> <p>· <i>Autonomous University of Madrid</i> · December 2015/November 2017</p>
+    <p style="color:#4183c4; display:inline; font-size:120%"><b>System Administrator</b></p> · <i>Autonomous University of Madrid</i> · December 2015/November 2017
 </div>
 <div class="a">
     <p>Operating system and software installation</p>
@@ -77,7 +77,7 @@ div.c {
 <p>&nbsp;</p>
 
 <div class="c">
-    <p style="color:#4183c4; display:inline; font-size:120%"><b>Master of Science, Bioinformatics</b></p> <p>· June 2020 · <b>Aarhus University</b></p>
+    <p style="color:#4183c4; display:inline; font-size:120%"><b>Master of Science, Bioinformatics</b></p> · June 2020 · <b>Aarhus University</b>
 </div>
 <div class="a">
     <b>Courses:</b>
@@ -104,7 +104,7 @@ div.c {
 <p>&nbsp;</p>
 
 <div class="c">
-    <p style="color:#4183c4; display:inline; font-size:120%"><b>Bachelor of Science, Biology</b></p> <p>· July 2015 · <b>Autonomous University of Madrid</b></p>
+    <p style="color:#4183c4; display:inline; font-size:120%"><b>Bachelor of Science, Biology</b></p> · July 2015 · <b>Autonomous University of Madrid</b>
 </div>
 <div class="a">
     <b>BSc thesis:</b>
@@ -229,3 +229,4 @@ div.c {
 <div class="a">
     <b>Driving License:</b> B
 </div>
+
