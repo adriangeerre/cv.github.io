@@ -18,7 +18,7 @@ div.b {
 
 <h5>Experience</h5>
 
-<p style="color:#1e2c57; display:inline;font-size:120%"><b>System Administrator</b></p> · <i>Xray Magnatek Aps</i> · March 2019/November 2020<br>
+<p style="color:#1e2c57; display:inline; font-size:120%"><b>System Administrator</b></p> · <i>Xray Magnatek Aps</i> · March 2019/November 2020<br>
 <div class="a">
     <p>Operating systems and software installation</p>
     <p>System administration on Linux (Debian/Ubuntu)</p>
@@ -33,7 +33,7 @@ div.b {
 
 <p>&nbsp;</p>
 
-<p style="color:#2f0d6c; display:inline;"><b>System Administrator</b></p> · <i>Medlab Media Group</i> · November 2017/August 2018<br>
+<p style="color:#2f0d6c; white-space: nowrap; font-size:120%"><b>System Administrator</b></p> · <i>Medlab Media Group</i> · November 2017/August 2018<br>
 <div class="a">
     <p>Operating systems and software installation</p>
     <p>System administration on Linux (Debian/Ubuntu)</p>
@@ -46,7 +46,7 @@ div.b {
 
 <p>&nbsp;</p>
 
-<p style="color:#4183c4; display:inline;"><b>System Administrator</b></p> · <i>Autonomous University of Madrid</i> · December 2015/November 2017<br>
+<p style="color:#4183c4; display:inline; font-size:120%"><b>System Administrator</b></p> · <i>Autonomous University of Madrid</i> · December 2015/November 2017<br>
 <div class="a">
     <p>Operating system and software installation</p>
     <p>System administration on Linux (RHEL/CentOS) for scientific computation</p>
