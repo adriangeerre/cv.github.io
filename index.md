@@ -61,6 +61,9 @@ div.b {
 
 <p>&nbsp;</p>
 
+
+
+
 <p style="color:#1e2c57; font-size:160%"><b>Education</b></p>
 
 <p>&nbsp;</p>
@@ -100,21 +103,39 @@ div.b {
 
 <p>&nbsp;</p>
 
+
+
+
 <p style="color:#1e2c57; font-size:160%"><b>Courses</b></p>
 
 <p>&nbsp;</p>
 
 <div class="a">
     <p style="color:#4183c4; display:inline; font-size:120%"><b>Course in Shell script programming</b></p> · Autonomous University of Madrid · 40 hours
+</div>
+<div class="a">
     <p style="color:#4183c4; display:inline; font-size:120%"><b>Course in Linux security</b></p> · Autonomous University of Madrid · 40 hours
-    <p><b>Course in Advanced Administration of Linux Systems</b> · Autonomous University of Madrid · 40 hours</p>
-    <p><b>Introduction to parallel programming with OpenMP and MPI</b> · Autonomous University of Madrid · 20 hours</p>
-    <p><b>MongoDB basics</b> · MongoDB University · 20 hours</p>
-    <p><b>Elements of AI</b> · University of Helsinki · 60 hours</p>
-    <p><b>NGS Data Analysis</b> · Aarhus University · 125 hours</p>
+</div>
+<div class="a">
+    <p style="color:#4183c4; display:inline; font-size:120%"><b>Course in Advanced Administration of Linux Systems</b></p> · Autonomous University of Madrid · 40 hours
+</div>
+<div class="a">
+    <p style="color:#4183c4; display:inline; font-size:120%"><b>Introduction to parallel programming with OpenMP and MPI</b></p> · Autonomous University of Madrid · 20 hours
+</div>
+<div class="a">
+    <p style="color:#4183c4; display:inline; font-size:120%"><b>MongoDB basics</b></p> · MongoDB University · 20 hours
+</div>
+<div class="a">
+    <p style="color:#4183c4; display:inline; font-size:120%"><b>Elements of AI</b></p> · University of Helsinki · 60 hours
+</div>
+<div class="a">
+    <p style="color:#4183c4; display:inline; font-size:120%"><b>NGS Data Analysis</b></p> · Aarhus University · 125 hours
 </div>
 
 <p>&nbsp;</p>
+
+
+
 
 <p style="color:#1e2c57; font-size:160%"><b>Languages</b></p>
 
@@ -122,11 +143,18 @@ div.b {
 
 <div class="a">
     <p style="color:#4183c4; display:inline; font-size:120%"><b>Spanish:</b></p> Native<br>
+</div>
+<div class="a">
     <p style="color:#4183c4; display:inline; font-size:120%"><b>English:</b></p> IELTS C1
+</div>
+<div class="a">
     <p style="color:#4183c4; display:inline; font-size:120%"><b>Danish:</b></p> Basic
 </div>
 
 <p>&nbsp;</p>
+
+
+
 
 <p style="color:#1e2c57; font-size:160%"><b>Skills</b></p>
 
@@ -176,6 +204,11 @@ div.b {
     <p>Population Genetics</p>
     <p>Bioinformatics</p>
 </div>
+
+<p>&nbsp;</p>
+
+
+
 
 <p style="color:#1e2c57; font-size:160%"><b>Licenses</b></p>
 
