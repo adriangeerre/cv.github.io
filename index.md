@@ -20,7 +20,7 @@ div.b {
 
 <p>&nbsp;</p>
 
-<p style="color:#4183c4; display:inline; font-size:120%"><b>System Administrator</b></p> <p>· <i>Xray Magnatek Aps</i> · March 2019/November 2020</p><br>
+<p style="color:#4183c4; display:inline; font-size:120%"><b>System Administrator</b></p> <p>· <i>Xray Magnatek Aps</i> · March 2019/November 2020</p>
 <div class="a">
     <p>Operating systems and software installation</p>
     <p>System administration on Linux (Debian/Ubuntu)</p>
@@ -35,7 +35,7 @@ div.b {
 
 <p>&nbsp;</p>
 
-<p style="color:#4183c4; display:inline; font-size:120%"><b>System Administrator</b></p> · <i>Medlab Media Group</i> · November 2017/August 2018<br>
+<p style="color:#4183c4; display:inline; font-size:120%"><b>System Administrator</b></p> <p>· <i>Medlab Media Group</i> · November 2017/August 2018</p>
 <div class="a">
     <p>Operating systems and software installation</p>
     <p>System administration on Linux (Debian/Ubuntu)</p>
@@ -48,7 +48,7 @@ div.b {
 
 <p>&nbsp;</p>
 
-<p style="color:#4183c4; display:inline; font-size:120%"><b>System Administrator</b></p> · <i>Autonomous University of Madrid</i> · December 2015/November 2017<br>
+<p style="color:#4183c4; display:inline; font-size:120%"><b>System Administrator</b></p> <p>· <i>Autonomous University of Madrid</i> · December 2015/November 2017</p>
 <div class="a">
     <p>Operating system and software installation</p>
     <p>System administration on Linux (RHEL/CentOS) for scientific computation</p>
@@ -65,7 +65,7 @@ div.b {
 
 <p>&nbsp;</p>
 
-<p style="color:#4183c4; display:inline; font-size:120%"><b>Master of Science, Bioinformatics</b></p> · June 2020 · <b>Aarhus University</b><br>
+<p style="color:#4183c4; display:inline; font-size:120%"><b>Master of Science, Bioinformatics</b></p> <p>· June 2020 · <b>Aarhus University</b></p>
 <div class="a">
     <b>Courses:</b>
 </div>
@@ -90,7 +90,7 @@ div.b {
 
 <p>&nbsp;</p>
 
-<p style="color:#4183c4; display:inline; font-size:120%"><b>Bachelor of Science, Biology</b></p> · July 2015 · <b>Autonomous University of Madrid</b><br>
+<p style="color:#4183c4; display:inline; font-size:120%"><b>Bachelor of Science, Biology</b></p> <p>· July 2015 · <b>Autonomous University of Madrid</b></p>
 <div class="a">
     <b>BSc thesis:</b>
 </div>
