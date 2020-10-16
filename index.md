@@ -52,10 +52,10 @@ div.c {
     <p style="color:#4183c4; display:inline; font-size:120%"><b>System Administrator</b></p> · November 2017 - August 2018 · <p style="color:#666666; display:inline; font-size:120%"><b>Medlab Media Group</b></p>
 </div>
 <div class="a">
-    <p style="color:#666666; display:inline"><b>Address:</b></p> 
+    <p style="color:#666666; display:inline"><b>Address:</b></p> Stree Pollensa, 6, 2ª floor, Building ECU 2, 28290, Las Rozas de Madrid, Madrid
 </div>
 <div class="a">
-    <p style="color:#666666; display:inline"><b>Email:</b></p> 
+    <p style="color:#666666; display:inline"><b>Email:</b></p> info@medlabmg.com
 </div>
 <div class="a">
     <b>Tasks:</b>
@@ -76,7 +76,7 @@ div.c {
     <p style="color:#4183c4; display:inline; font-size:120%"><b>System Administrator</b></p> · December 2015 - November 2017 · <p style="color:#666666; display:inline; font-size:120%"><b>Autonomous University of Madrid</b></p> 
 </div>
 <div class="a">
-    <p style="color:#666666; display:inline"><b>Address:</b></p> Autonomous University of Madrid. Faculty of Science, module C-08, 1st floor. Entrance throug Stree Adam Smith.
+    <p style="color:#666666; display:inline"><b>Address:</b></p> Autonomous University of Madrid. Faculty of Science, module C-08, 1st floor. Entrance through Stree Adam Smith.
 </div>
 <div class="a">
     <p style="color:#666666; display:inline"><b>Email:</b></p> administrador.ccc@uam.es
