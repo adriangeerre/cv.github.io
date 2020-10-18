@@ -247,9 +247,6 @@ div.c {
     <p>Sprints</p>
     <p>Kanban</p>
 </div>
-<div class="a">
-    <b>Interests:</b>
-</div>
 
 <p>&nbsp;</p>
 
