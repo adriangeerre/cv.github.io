@@ -5,6 +5,28 @@ p {
 div.a {
     text-indent: 40px;
 }
+table {
+  width:100%;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+#t01 tr:nth-child(even) {
+  background-color: #4183c4;
+}
+#t01 tr:nth-child(odd) {
+ background-color: #66666;
+ color: white;
+}
+#t01 th {
+  background-color: #1e2c57;
+  color: white;
+}
 </style>
 
 <p style="color:#1e2c57; font-size:160%"><b>Programming languages</b></p>
@@ -38,3 +60,35 @@ div.a {
 <div class="a">
 	<p><img src="assets/res/programming-languages/xml.png" align="left" class= "image-margin" height="35" width="35" title="XML"> <progress max="100" value="35"></progress></p><br />
 </div>
+
+<p>&nbsp;</p>
+
+<p style="color:#1e2c57; font-size:160%"><b>Software</b></p>
+
+<table id="t01">
+  <tr>
+  	<th>Bioinformatics</th>
+    <th>System Administrator</th> 
+    <th>Coding</th>
+  </tr>
+  <tr>
+    <td>BLAST</td>
+    <td>Entrez/Eutils</td>
+    <td>R-Markdown</td>
+    <td>Slurm & gwf</td>
+  </tr>
+  <tr>
+  	<td>MySQL/PostgreSQL/MongoDB</td>
+    <td>VirtualBox/Proxmox</td>
+    <td>Nagios & Cacti</td>
+    <td>Pacemaker & Corosync</td>
+  </tr>
+  <tr>
+    <td>Github/Gitlab</td>
+    <td>Jira/Confluence/Bitbucket</td>
+    <td>a</td>
+    <td>a</td>
+  </tr>
+</table>
+
+<p>&nbsp;</p>
