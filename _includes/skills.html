@@ -14,18 +14,20 @@ table, th, td {
 }
 th, td {
   padding: 15px;
+}
+#color-table tr:nth-child(even) {
+  background-color: #4183c4;
   text-align: left;
 }
-#t01 tr:nth-child(even) {
-  background-color: #4183c4;
-}
-#t01 tr:nth-child(odd) {
- background-color: #66666;
+#color-table tr:nth-child(odd) {
+ background-color: #666666;
  color: white;
+ text-align: left;
 }
-#t01 th {
+#color-table th {
   background-color: #1e2c57;
   color: white;
+  text-align: center;
 }
 </style>
 
@@ -65,29 +67,31 @@ th, td {
 
 <p style="color:#1e2c57; font-size:160%"><b>Software</b></p>
 
-<table id="t01">
+<table id="color-table">
   <tr>
   	<th>Bioinformatics</th>
-    <th>System Administrator</th> 
-    <th>Coding</th>
+    <th>System Administration</th> 
+    <th>Coding & Organization</th>
   </tr>
   <tr>
     <td>BLAST</td>
-    <td>Entrez/Eutils</td>
-    <td>R-Markdown</td>
-    <td>Slurm & gwf</td>
+    <td>MySQL & MongoDB</td>
+    <td>R-Studio</td>
   </tr>
   <tr>
-  	<td>MySQL/PostgreSQL/MongoDB</td>
+  	<td>Entrez/Eutils</td>
     <td>VirtualBox/Proxmox</td>
-    <td>Nagios & Cacti</td>
-    <td>Pacemaker & Corosync</td>
+    <td>Sublime/PyCharm/Spider</td>
   </tr>
   <tr>
-    <td>Github/Gitlab</td>
-    <td>Jira/Confluence/Bitbucket</td>
-    <td>a</td>
-    <td>a</td>
+  	<td>Slurm & gwf</td>
+  	<td>Nagios & Cacti</td>
+  	<td>Jira & Confluence</td>
+  </tr>
+  <tr>
+  	<td>R-markdown</td>
+    <td>Pacemaker & Corosync</td>
+    <td>Github/Gitlab/Bitbucket</td>
   </tr>
 </table>
 
