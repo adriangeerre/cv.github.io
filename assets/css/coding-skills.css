@@ -7,17 +7,17 @@ progress {
 }
 
 progress {
-  color: #4183c4;
+  color: #1e2c57;
 }
 
 progress::-webkit-progress-value {
-  background: #4183c4;
+  background: #1e2c57;
 }
 
 progress::-moz-progress-bar {
-  background: lightcolor;
+  background: #4183c4;
 }
 
 progress::-webkit-progress-bar {
-  background: #1e2c57;
+  background: #4183c4;
 }
