@@ -21,3 +21,7 @@ progress::-moz-progress-bar {
 progress::-webkit-progress-bar {
   background: #4183c4;
 }
+
+.image-margin { 
+	margin-left: 25px; 
+} 
