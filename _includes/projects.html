@@ -3,12 +3,14 @@
 {{ repo|pprint }}
 <div class="col s12 m6 l4" {% if repo.fork %}id="forked"{% endif %}>
   <div class="card hoverable">
+    {% if repo.homepage == "" %}
     <div class="card-image waves-effect waves-block waves-light geopattern activator" data-pattern-id="{{repo.name}}">
       <i class="material-icons waves-effect waves-block waves-light">more_vert</i>
-      {% if repo.homepage == "" %}
-        <a class="card-title center-align valign-wrapper" href="{{repo.html_url}}" target="_blank">{{repo.name}}</a>
-      {% else %}
-        <a class="card-title center-align valign-wrapper" href="{{repo.homepage}}" target="_blank">{{repo.name}}</a>
+      <a class="card-title center-align valign-wrapper" href="{{repo.html_url}}" target="_blank">{{repo.name}}</a>
+    {% else %}
+    <div class="card-image waves-effect waves-block waves-light geopattern activator" data-pattern-id="{{repo.name}}">
+      <i class="material-icons waves-effect waves-block waves-light">more_vert</i>
+      <a class="card-title center-align valign-wrapper" href="{{repo.homepage}}" target="_blank">{{repo.name}}</a>
     </div>
     <div class="card-content valign-wrapper center-align activator">
       <span class="activator grey-text text-darken-1">{{repo.description}}</span>
