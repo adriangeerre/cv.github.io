@@ -1,4 +1,5 @@
 {% assign repos = (site.github.public_repositories) %}
+{{ pprint|repos }}
 {% for repo in repos %}
   {% if repo.homepage == "" %}
   <div class="col s12 m6 l4" {% if repo.fork %}id="forked"{% endif %}>
@@ -12,15 +13,7 @@
       </div>
       <div class="card-reveal">
         <div class="card-reveal-content">
-          <span class="card-title grey-text text-darken-4">Statistics<i class="material-icons right">close</i></span>
-          <span class="tooltipped" data-position="bottom" data-delay="30" data-tooltip="{{repo.stargazers_count}} stars">
-            <i class="material-icons">star</i>
-            {{repo.stargazers_count}}
-          </span>
-          <span class="tooltipped" data-position="bottom" data-delay="30" data-tooltip="{{repo.forks_count}} forks">
-            <i class="material-icons">call_split</i>
-            {{repo.forks_count}}
-          </span>
+          <span class="card-title grey-text text-darken-4">Last update:<i class="material-icons right">close</i></span>
           <span class="tooltipped" data-position="bottom" data-delay="30" data-tooltip="Last updated：{{repo.updated_at}}">
             <i class="material-icons">access_time</i>
             <time datetime="{{repo.updated_at}}" title="{{repo.updated_at}}">{{repo.updated_at | date: '%Y-%m-%d'}}</time>
