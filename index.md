@@ -206,51 +206,6 @@ div.c {
 <p>&nbsp;</p>
 
 
-
-
-<p style="color:#1e2c57; font-size:160%"><b>Skills</b></p>
-
-<p>&nbsp;</p>
-
-<div class="a">
-    <b>Programming Languages:</b>
-</div>
-<div class="b">
-    <p>Python</p>
-    <p>R</p>
-    <p>Shell Script</p>
-    <p>Latex</p>
-    <p>MySQL</p>
-    <p>XML</p>
-    <p>HTML</p>
-</div>
-<div class="a">
-    <b>Software knowledge:</b>
-</div>
-<div class="b">
-    <p>BLAST</p>
-    <p>Entrez/Eutils</p>
-    <p>Slurm/gwf</p>
-    <p>MySQL/Postgresql/MongoDB</p>
-    <p>Github/Gitlab</p>
-    <p>Jira/Confluence/Bitbucket</p>
-    <p>Pacemaker & Corosync</p>
-    <p>VirtualBox/Proxmox</p>
-    <p>Nagios/Cacti</p>
-    <p>Suricata/Fail2band</p>
-</div>
-<div class="a">
-    <b>Organization:</b>
-</div>
-<div class="b">
-    <p>Scrum</p>
-    <p>Sprints</p>
-    <p>Kanban</p>
-</div>
-
-<p>&nbsp;</p>
-
-
 <p style="color:#1e2c57; font-size:160%"><b>Interests</b></p>
 
 <p>&nbsp;</p>
