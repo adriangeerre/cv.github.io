@@ -2,19 +2,12 @@ progress {
   border: 2px solid black;
   width: 250px;
   height: 30px;
-  background: crimson;
+  left: 10px;
+  top: 10px;
 }
 
 progress {
-  color: lightblue;
-}
-
-progress::-webkit-progress-value {
-  background: lightblue;
-}
-
-progress::-moz-progress-bar {
-  background: lightcolor;
+  color: #4183c4;
 }
 
 progress::-webkit-progress-bar {
