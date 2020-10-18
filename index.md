@@ -210,7 +210,7 @@ div.c {
 
 <p>&nbsp;</p>
 
-<div class="b">
+<div class="a">
     <p><b>Evolution</b></p>
     <p><b>Biodiversity</b></p>
     <p><b>Data Science</b></p>
