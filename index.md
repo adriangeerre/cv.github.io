@@ -211,11 +211,11 @@ div.c {
 <p>&nbsp;</p>
 
 <div class="b">
-    <p>Evolution</p>
-    <p>Biodiversity</p>
-    <p>Data Science</p>
-    <p>Population Genetics</p>
-    <p>Bioinformatics</p>
+    <p><b>Evolution</b></p>
+    <p><b>Biodiversity</b></p>
+    <p><b>Data Science</b></p>
+    <p><b>Population Genetics</b></p>
+    <p><b>Bioinformatics</b></p>
 </div>
 
 <p>&nbsp;</p>
