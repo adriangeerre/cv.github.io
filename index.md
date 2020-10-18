@@ -250,6 +250,14 @@ div.c {
 <div class="a">
     <b>Interests:</b>
 </div>
+
+<p>&nbsp;</p>
+
+
+<p style="color:#1e2c57; font-size:160%"><b>Interests</b></p>
+
+<p>&nbsp;</p>
+
 <div class="b">
     <p>Evolution</p>
     <p>Biodiversity</p>
@@ -259,9 +267,6 @@ div.c {
 </div>
 
 <p>&nbsp;</p>
-
-
-
 
 <p style="color:#1e2c57; font-size:160%"><b>Licenses</b></p>
 
