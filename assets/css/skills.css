@@ -15,11 +15,11 @@ progress::-webkit-progress-value {
 }
 
 progress::-moz-progress-bar {
-  background: #4183c4;
+  background: #6face8;
 }
 
 progress::-webkit-progress-bar {
-  background: #4183c4;
+  background: #6face8;
 }
 
 .image-margin { 
