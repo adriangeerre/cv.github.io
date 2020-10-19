@@ -7,13 +7,13 @@ p {
     margin: 0;
 }
 div.a {
-    text-indent: 25px;
+    text-indent: 125px;
 }
 div.b {
-    text-indent: 50px;
+    text-indent: 150px;
 }
 div.c {
-    text-indent: 0px;
+    text-indent: 10px;
 }
 </style>
 
@@ -79,7 +79,7 @@ div.c {
 <p>&nbsp;</p>
 
 <div class="c">
-    <p style="color:#4183c4; display:inline; font-size:120%"><b>System Administrator</b></p> · December 2015 - November 2017 · <p style="color:#666666; display:inline; font-size:120%"><b>Autonomous University of Madrid</b></p> 
+    <img src="assets/res/university_and_companies/UAM.png" align="left" height="80" width="100" title="Universidad Autónoma de Madrid"><p style="color:#4183c4; display:inline; font-size:120%"><b>System Administrator</b></p> · December 2015 - November 2017 · <p style="color:#666666; display:inline; font-size:120%"><b>Autonomous University of Madrid</b></p> 
 </div>
 <div class="a">
     <p style="color:#666666; display:inline"><b>Address:</b></p> Autonomous University of Madrid. Faculty of Science, module C-08, 1st floor. Entrance through Stree Adam Smith.
@@ -113,7 +113,7 @@ div.c {
 <p>&nbsp;</p>
 
 <div class="c">
-    <img src="assets/res/university_and_companies/aarhus.png" align="left" height="40" width="60" title="Aarhus University"><p style="color:#4183c4; display:inline; font-size:120%"><b>Master of Science, Bioinformatics</b></p> · June 2020 · <p style="color:#666666; display:inline; font-size:120%"><b>Aarhus University</b></p>
+    <img src="assets/res/university_and_companies/aarhus.png" align="left" height="80" width="100" title="Aarhus University"><p style="color:#4183c4; display:inline; font-size:120%"><b>Master of Science, Bioinformatics</b></p> · June 2020 · <p style="color:#666666; display:inline; font-size:120%"><b>Aarhus University</b></p>
 </div>
 <div class="a">
     <b>Courses:</b>
@@ -144,7 +144,7 @@ div.c {
 <p>&nbsp;</p>
 
 <div class="c">
-    <img src="assets/res/university_and_companies/UAM.png" align="left" height="40" width="60" title="Universidad Autónoma de Madrid"><p style="color:#4183c4; display:inline; font-size:120%"><b>Bachelor of Science, Biology</b></p> · July 2015 · <p style="color:#666666; display:inline; font-size:120%"><b>Autonomous University of Madrid</b></p>
+    <img src="assets/res/university_and_companies/UAM.png" align="left" height="80" width="100" title="Universidad Autónoma de Madrid"><p style="color:#4183c4; display:inline; font-size:120%"><b>Bachelor of Science, Biology</b></p> · July 2015 · <p style="color:#666666; display:inline; font-size:120%"><b>Autonomous University of Madrid</b></p>
 </div>
 <div class="a">
     <b>BSc thesis:</b>
