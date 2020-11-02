@@ -197,6 +197,9 @@ div.e-pic {
 <div class="a">
     <p style="color:#4183c4; display:inline; font-size:120%"><b>NGS Data Analysis</b></p> · Aarhus University · 125 hours
 </div>
+<div class="a">
+    <p style="color:#4183c4; display:inline; font-size:120%"><b>Python for Data Science and Big Data essentials</b></p> · Linkedin Learning · 5 hours
+</div>
 
 <p>&nbsp;</p>
 

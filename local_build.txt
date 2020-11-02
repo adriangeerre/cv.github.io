@@ -1,0 +1,50 @@
+Build locally:
+
+	1. Install a linux server (better a virtual server/environment), in my case, Debian 10.4.
+	2. Install the following packages: 
+
+		apt-get install vim net-tools git build-essential patch ruby-full ruby-dev zlib1g-dev liblzma-dev
+
+	3. Run the following:
+
+		echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+		echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+		echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+		source ~/.bashrc
+
+	4. Install bundler and jekyll:
+
+		gem install jekyll bundler
+
+	4. Copy or clone the repository into the virtualserver. Access it.
+	5. Run:
+		bundle install
+
+			Output:
+			-------------------------------------------------
+			Thank you for installing html-pipeline!
+			You must bundle Filter gem dependencies.
+			See html-pipeline README.md for more details.
+			https://github.com/jch/html-pipeline#dependencies
+			-------------------------------------------------
+
+		bundle exec jekyll serve --host=192.168.1.100
+
+			Output:
+			-----------------------------------------------------------------------------
+			Configuration file: /root/cv.github.io/_config.yml
+		        Deprecation: The 'gems' configuration option has been renamed to 'plugins'. Please update your config file accordingly.
+		            Source: /root/cv.github.io
+		        	Destination: /root/cv.github.io/_site
+			 	Incremental build: disabled. Enable with --incremental
+			    Generating... 
+			       Jekyll Feed: Generating feed for posts
+			        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.
+			   	GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
+			                    done in 1.662 seconds.
+			 	Auto-regeneration: enabled for '/root/cv.github.io'
+			    Server address: http://192.168.1.100:4000/cv.github.io/
+			  	Server running... press ctrl-c to stop.
+			-----------------------------------------------------------------------------
+
+Now we can access http://192.168.1.100:4000/cv.github.io/ in our browser and see our website. When updating, stop the process and re-run the last command.
