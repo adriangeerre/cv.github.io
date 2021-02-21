@@ -36,6 +36,31 @@ div.e-pic {
 
 <p>&nbsp;</p>
 <div class="c-pic">
+    <img src="assets/res/university_and_companies/CBMSO.jpg" align="left" height="80" width="100" title="Centro de Biología Molecular Severo Ochoa"><p style="color:#4183c4; display:inline; font-size:120%"><b>NGS analyst</b></p> · January 2021 - January 2022 · <p style="color:#666666; display:inline; font-size:120%"><b>Centro de Biología Molecular Severo Ochoa</b></p>
+</div>
+<div class="a">
+    <p style="color:#666666; display:inline"><b>Address:</b></p> Street Nicolás Cabrera 1, 28049, Universidad Autónoma de Madrid, Madrid, España.
+</div>
+<div class="a">
+    <p style="color:#666666; display:inline"><b>Email:</b></p> institucional@cbm.csic.es
+</div>
+<div class="a">
+    <p style="color:#666666; display:inline"><b>Website:</b></p> <a href="https://www.cbm.uam.es/es/" style="color:#4183c4">CBMSO</a><br>
+</div>
+<div class="a-pic">
+    <b>Tasks:</b>
+</div>
+<div class="b-pic">
+    <p>Multiple NGS type analyzes: DNAseq, RNAseq, or ChIPseq, among others.</p>
+    <p>Downstream analyzes: statistics, plots, gene annotation, or uploading of data to repositories (ENA & EGA), among others.</p>
+    <p>Development of scripts to perform NGS analyzes</p>
+    <p>Individual project managenement and reporting to the researcher</p>
+</div>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+<div class="c-pic">
     <img src="assets/res/university_and_companies/xray-magnatek.png" align="left" height="80" width="100" title="Xray Magnatek Aps"><p style="color:#4183c4; display:inline; font-size:120%"><b>System Administrator</b></p> · March 2019 - November 2020 · <p style="color:#666666; display:inline; font-size:120%"><b>Xray Magnatek Aps</b></p>
 </div>
 <div class="a">
