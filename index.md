@@ -45,7 +45,7 @@ div.e-pic {
     <p style="color:#666666; display:inline"><b>Email:</b></p> institucional@cbm.csic.es
 </div>
 <div class="a">
-    <p style="color:#666666; display:inline"><b>Website:</b></p> <a href="https://www.cbm.uam.es/es/" style="color:#4183c4">CBMSO</a><br>
+    <p style="color:#666666; display:inline"><b>Website:</b></p> <a href="https://www.cbm.uam.es/es/" style="color:#4183c4">www.cbm.uam.es</a><br>
 </div>
 <div class="a-pic">
     <b>Tasks:</b>
