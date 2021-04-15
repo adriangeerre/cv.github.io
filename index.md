@@ -226,6 +226,9 @@ div.e-pic {
 <div class="a">
     <p style="color:#4183c4; display:inline; font-size:120%"><b>Python for Data Science and Big Data essentials</b></p> · Linkedin Learning · 5 hours
 </div>
+<div class="a">
+    <p style="color:#4183c4; display:inline; font-size:120%"><b>Genomic Data Science Certification (Johns Hopkins University)</b></p> · Coursera · 8 courses
+</div>
 
 <p>&nbsp;</p>
 
