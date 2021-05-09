@@ -53,7 +53,7 @@ div.e-pic {
 <div class="b-pic">
     <p>Multiple NGS type analyzes: DNAseq, RNAseq, or Chromatin Accessibility, among others.</p>
     <p>Downstream analyzes: statistics, plots, gene annotation, or uploading of data to repositories (ENA & EGA), among others.</p>
-    <p>Development of scripts to perform NGS analyzes</p>
+    <p>Development of in-house and clients scripts to perform NGS analyzes</p>
     <p>Individual project managenement and reporting to the researcher</p>
 </div>
 
